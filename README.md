@@ -19,3 +19,10 @@ Welcome to NotesApp then...
     <img src="/screenshots/4.jpg" alt="drawing" width="200"/>
     <img src="/screenshots/5.jpg" alt="drawing" width="200"/>
 </p>
+
+
+#Firebase Database Screnshots
+<p>
+    <img src="/screenshots/6.jpg" alt="drawing" width="200"/>
+    <img src="/screenshots/7.jpg" alt="drawing" width="200"/>
+</p>
