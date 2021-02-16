@@ -1,6 +1,14 @@
 # NotesApp
 A note taking react-native web app compatible for IOS & Android platforms.
 
+Commands to Run
+Clone gitHub repo
+cd NotesApp
+expo start
+
+Download expo go app from playstore or appstore on your device
+Scan the qr code genterate on terminal
+Welcome to NotesApp then... 
 
 #Screenshots
 
