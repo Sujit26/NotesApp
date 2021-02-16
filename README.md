@@ -23,6 +23,6 @@ Welcome to NotesApp then...
 
 #Firebase Database Screnshots
 <p>
-    <img src="/screenshots/6.jpg" alt="drawing" width="200"/>
-    <img src="/screenshots/7.jpg" alt="drawing" width="200"/>
+    <img src="/screenshots/6.jpg" alt="drawing" />
+    <img src="/screenshots/7.jpg" alt="drawing" />
 </p>
