@@ -1,5 +1,5 @@
 # NotesApp
-A note taking react-native web app compatible for IOS & Android platforms.
+A note taking react-native web app compatible for IOS & Android platforms.  
 Store Data in encrypted form on firebase
 
 Commands to Run  
