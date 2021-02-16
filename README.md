@@ -10,7 +10,7 @@ Download expo go app from playstore or appstore on your device
 Scan the qr code genterate on terminal  
 Welcome to NotesApp then...   
 
-#Screenshots
+# Screenshots
 
 <p>
     <img src="/screenshots/1.jpg" alt="drawing" width="200"/>
@@ -21,7 +21,7 @@ Welcome to NotesApp then...
 </p>
 
 
-#Firebase Database Screnshots
+# Firebase Database Screnshots
 <p>
     <img src="/screenshots/6.jpg" alt="drawing" />
     <img src="/screenshots/7.jpg" alt="drawing" />
