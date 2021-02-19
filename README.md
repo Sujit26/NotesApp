@@ -3,7 +3,7 @@ A note taking react-native web app compatible for IOS & Android platforms.
 Store Data in encrypted form on firebase
 
 # Commands to Run  
-### Clone gitHub repo   
+### git clone https://github.com/Sujit26/NotesApp/
 ### cd NotesApp   
 ### expo start   
 
