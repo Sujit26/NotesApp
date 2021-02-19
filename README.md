@@ -1,6 +1,6 @@
 # NotesApp
-A note taking react-native web app compatible for IOS & Android platforms.  
-Store Data in encrypted form on firebase
+    A note taking react-native web app compatible for IOS & Android platforms.  
+    Store Data in encrypted form on firebase
 
 # Commands to Run  
     git clone https://github.com/Sujit26/NotesApp/
@@ -8,9 +8,9 @@ Store Data in encrypted form on firebase
     expo start   
 
 
-Download expo go app from playstore or appstore on your device  
-Scan the qr code genterate on terminal  
-Welcome to NotesApp then...   
+    Download expo go app from playstore or appstore on your device  
+    Scan the qr code genterate on terminal  
+    Welcome to NotesApp then...   
 
 # Screenshots
 
