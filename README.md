@@ -22,7 +22,7 @@ Welcome to NotesApp then...
 </p>
 
 
-# Firebase Database Screnshots
+# Firebase Database Screenshots
 <p>
     <img src="/screenshots/6.jpg" alt="drawing" />
     <img src="/screenshots/7.jpg" alt="drawing" />
